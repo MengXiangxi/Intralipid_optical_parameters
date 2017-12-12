@@ -6,8 +6,10 @@ Georgia Institute of Technology, Emory University, Peking University
 
 mengxiangxi#pku.edu.cn
 
-Version:	20171130 - initial commit
-                20171212 - add 'Summary' and revise discussion on anisotropy
+| Version       | Description  |
+| ------------- |:-------------| 
+| 20171130      | initial commit |
+| 20171212      | add 'Summary' and revise discussion on anisotropy |
 
 ## Introduction										
 										
