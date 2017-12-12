@@ -6,8 +6,9 @@ Georgia Institute of Technology, Emory University, Peking University
 
 mengxiangxi#pku.edu.cn
 
-Version:	20171130									
-										
+Version:	20171130 - initial commit
+                20171212 - add 'Summary' and revise discussion on anisotropy
+
 ## Introduction										
 										
 Intralipid (IL) has been widely used in the study of biophotonics, yet the optical parameters of absorption coefficient, scattering coefficient, anisotropy and refractive index are often incorrectly cited. Moreover, the parameters of differentconcentrations of IL need to be converted. Thus, I am summarizing various information and compiling it into this interactive Excel file for futre reference.			
@@ -32,7 +33,7 @@ The range of the input wavelength should be 600-1850, and the concentration shou
 
 ## Anisotropy
 
-A fitted equation of g is provided by reference [4]. Anisotropy is independent of the concentrations.	
+A fitted equation of g is provided by reference [4]. Anisotropy is not so significantly dependent on concentrations, thus here a representative value for 20% IL is provided. However, the anisotropy for concentrations less than 2% at a wavelength greater than 1050 nm is not reliable. See reference [4].
 
 The range of the input wavelength should be 500-2500.
 
